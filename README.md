@@ -6,7 +6,7 @@
 
 ## 🚀How to implement it?
 
-1. Once you've downloaded the code, create a virtual environment and activate it.
+1. Once you've downloaded the code, create a virtual environment and activate it. (Steps to create a virtual environment can be found [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).)
 2. The system requires flask and flask-sqlalchemy. To install them:
   ```
   pip install flask
