@@ -12,7 +12,8 @@
   pip install flask
   pip install flask_sqlalchemy
   ```
-3. To run the server, simply type out ```python app.py``` in your command prompt. <hr/>
+3. To run the server, simply type out ```python app.py``` in your command prompt and open https://127.0.0.0:5000 on your browser. <br/>
+<hr/>
 
 -The user can register or use the default credentials to check out the webapp.<br/>
   *Default username = user* <br/>
